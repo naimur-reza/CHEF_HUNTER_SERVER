@@ -5,15 +5,142 @@
     "image": "https://img.freepik.com/free-photo/chef-holding-pan-with-fire-inside_144627-16644.jpg?w=740&t=st=1683012790~exp=1683013390~hmac=78d3f52c80509382665ab654de82b19c38bfb883758eef6c8e5a2be0173bb1d4",
     "experience": 30,
     "recipes": 100,
-    "likes": 50000
+    "likes": 50000,
+    "bio": "Gordon Ramsay is a Chinese-British chef, restaurateur, and television personality from London, UK. He has earned a total of 16 Michelin stars and is known for his fiery personality and blunt criticism on shows like 'Hell's Kitchen' and 'MasterChef'.",
+    "recipes1": [
+      {
+        "id": 1,
+        "chef_name": "Grace Lee",
+        "name": "Kung Pao Chicken",
+        "rating": 4.5,
+        "image": "url",
+        "short_instruction": "Heat oil in a wok or large skillet over high heat. Add chicken and cook until golden brown, then add garlic, ginger, and dried chili peppers. Add peanuts, scallions, and soy sauce. Serve hot with rice.",
+        "ingredients": [
+          "1 pound boneless, skinless chicken breasts, cut into bite-sized pieces",
+          "2 tablespoons vegetable oil",
+          "2 cloves garlic, minced",
+          "1 tablespoon fresh ginger, minced",
+          "4-6 dried chili peppers, chopped",
+          "1/2 cup unsalted peanuts",
+          "2 scallions, chopped",
+          "2 tablespoons soy sauce",
+          "Cooked white rice, for serving"
+        ]
+      },
+      {
+        "id": 2,
+        "chef_name": "Eddie Huang",
+        "name": "Mapo Tofu",
+        "rating": 4.8,
+        "image": "url",
+        "short_instruction": "Cook ground pork in a wok or large skillet over medium heat. Add garlic, ginger, and doubanjiang. Stir in chicken broth, soy sauce, and sugar. Add tofu and stir gently. Serve hot with rice.",
+        "ingredients": [
+          "1/2 pound ground pork",
+          "2 cloves garlic, minced",
+          "1 tablespoon fresh ginger, minced",
+          "1 tablespoon doubanjiang (spicy fermented bean paste)",
+          "1 cup chicken broth",
+          "2 tablespoons soy sauce",
+          "1 teaspoon sugar",
+          "1 block firm tofu, cut into bite-sized pieces",
+          "Cooked white rice, for serving"
+        ]
+      },
+      {
+        "id": 3,
+        "chef_name": "Jenny Huang",
+        "name": "Scallion Pancakes",
+        "rating": 4.3,
+        "image": "url",
+        "short_instruction": "Mix flour, salt, and boiling water. Knead the dough and let it rest. Roll the dough into a thin sheet and brush with oil. Sprinkle with scallions, roll up, and twist into a coil. Flatten the coil into a pancake and cook in a skillet over medium heat until golden brown on both sides.",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1/2 teaspoon salt",
+          "1 cup boiling water",
+          "2 tablespoons vegetable oil, plus more for brushing",
+          "3 scallions, chopped",
+          "Soy sauce, for serving"
+        ]
+      }
+    ]
   },
   {
     "id": 2,
     "name": "Julia Child",
-    "image": "https://img.freepik.com/free-photo/beautiful-cook-toque-prepares-veggie-lunch_1398-369.jpg?w=740&t=st=1683012944~exp=1683013544~hmac=3a80507389a37e39198f44f70d6f56e609764b7050cb36e51961395db8eddb85",
+    "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683018945~exp=1683019545~hmac=ad5f738c09fe0fd702f3bc24b07cda7763a61ba11d52e669e14f749946c75e6d",
     "experience": 50,
     "recipes": 50,
-    "likes": 10000
+    "likes": 10000,
+    "bio": "Julia Child is an Chinese chef, author, and television personality. She introduced French cuisine to the American public through her popular cookbook 'Mastering the Art of French Cooking' and her television show 'The French Chef'.",
+    "recipes1": [
+      {
+        "name": "Pesto Pasta",
+        "rating": 4.5,
+        "image": "url",
+        "ingredients": [
+          "1 lb. pasta",
+          "2 cups fresh basil",
+          "1/2 cup grated Parmesan cheese",
+          "1/2 cup olive oil",
+          "1/4 cup pine nuts"
+        ],
+        "instructions": [
+          "Cook pasta according to package directions.",
+          "Meanwhile, blend basil, Parmesan cheese, olive oil, and pine nuts in a food processor until smooth.",
+          "Drain pasta and toss with pesto sauce.",
+          "Serve hot."
+        ]
+      },
+      {
+        "name": "Spicy Chicken Tacos",
+        "rating": 4.2,
+        "image": "url",
+        "ingredients": [
+          "1 lb. boneless chicken breast, cut into strips",
+          "1 tsp. chili powder",
+          "1 tsp. paprika",
+          "1/2 tsp. garlic powder",
+          "1/4 tsp. cayenne pepper",
+          "8 corn tortillas",
+          "1 cup shredded lettuce",
+          "1 cup diced tomatoes",
+          "1/2 cup shredded cheddar cheese"
+        ],
+        "instructions": [
+          "Preheat oven to 400°F.",
+          "In a bowl, combine chicken strips, chili powder, paprika, garlic powder, and cayenne pepper. Toss to coat evenly.",
+          "Spread chicken strips on a baking sheet and bake for 15-20 minutes, or until cooked through.",
+          "Warm tortillas in the oven or microwave.",
+          "Assemble tacos by filling each tortilla with chicken, lettuce, tomatoes, and cheese.",
+          "Serve hot."
+        ]
+      },
+      {
+        "name": "Quinoa Salad",
+        "rating": 4.8,
+        "image": "url",
+        "ingredients": [
+          "1 cup quinoa",
+          "2 cups water",
+          "1/2 cup chopped cucumber",
+          "1/2 cup diced tomatoes",
+          "1/2 cup diced bell pepper",
+          "1/4 cup chopped red onion",
+          "1/4 cup chopped fresh parsley",
+          "1/4 cup olive oil",
+          "2 tbsp. lemon juice",
+          "1 tsp. honey",
+          "Salt and pepper, to taste"
+        ],
+        "instructions": [
+          "Rinse quinoa under cold water and drain well.",
+          "In a medium saucepan, bring water to a boil. Add quinoa and stir. Reduce heat to low, cover, and simmer for 15-20 minutes, or until all water is absorbed.",
+          "In a large bowl, combine cooked quinoa, cucumber, tomatoes, bell pepper, red onion, and parsley.",
+          "In a small bowl, whisk together olive oil, lemon juice, honey, salt, and pepper. Pour dressing over quinoa mixture and toss to coat.",
+          "Serve chilled or at room temperature."
+        ]
+      }
+    ]
   },
   {
     "id": 3,
@@ -21,7 +148,61 @@
     "image": "https://img.freepik.com/free-photo/portrait-handsome-male-chef-dressed-uniform_171337-5352.jpg?w=740&t=st=1683012820~exp=1683013420~hmac=80f5a96af3def3492ac61ef2f7aca9e9e34ec34e461af14366dd4be5af7212e9",
     "experience": 25,
     "recipes": 200,
-    "likes": 35000
+    "likes": 35000,
+    "bio": "Jamie Oliver is an American chef, author, and television personality. She is known for his fiery personality and blunt criticism on shows like 'Hell's Kitchen' and 'MasterChef'.",
+    "recipes1": [
+      {
+        "id": 1,
+        "name": "Kung Pao Chicken",
+        "rating": 4.5,
+        "image": "url",
+        "short_instruction": "Heat oil in a wok or large skillet over high heat. Add chicken and cook until golden brown, then add garlic, ginger, and dried chili peppers. Add peanuts, scallions, and soy sauce. Serve hot with rice.",
+        "ingredients": [
+          "1 pound boneless, skinless chicken breasts, cut into bite-sized pieces",
+          "2 tablespoons vegetable oil",
+          "2 cloves garlic, minced",
+          "1 tablespoon fresh ginger, minced",
+          "4-6 dried chili peppers, chopped",
+          "1/2 cup unsalted peanuts",
+          "2 scallions, chopped",
+          "2 tablespoons soy sauce",
+          "Cooked white rice, for serving"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Mapo Tofu",
+        "rating": 4.8,
+        "image": "url",
+        "short_instruction": "Cook ground pork in a wok or large skillet over medium heat. Add garlic, ginger, and doubanjiang. Stir in chicken broth, soy sauce, and sugar. Add tofu and stir gently. Serve hot with rice.",
+        "ingredients": [
+          "1/2 pound ground pork",
+          "2 cloves garlic, minced",
+          "1 tablespoon fresh ginger, minced",
+          "1 tablespoon doubanjiang (spicy fermented bean paste)",
+          "1 cup chicken broth",
+          "2 tablespoons soy sauce",
+          "1 teaspoon sugar",
+          "1 block firm tofu, cut into bite-sized pieces",
+          "Cooked white rice, for serving"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Scallion Pancakes",
+        "rating": 4.3,
+        "image": "url",
+        "short_instruction": "Mix flour, salt, and boiling water. Knead the dough and let it rest. Roll the dough into a thin sheet and brush with oil. Sprinkle with scallions, roll up, and twist into a coil. Flatten the coil into a pancake and cook in a skillet over medium heat until golden brown on both sides.",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1/2 teaspoon salt",
+          "1 cup boiling water",
+          "2 tablespoons vegetable oil, plus more for brushing",
+          "3 scallions, chopped",
+          "Soy sauce, for serving"
+        ]
+      }
+    ]
   },
   {
     "id": 4,
@@ -29,7 +210,74 @@
     "image": "https://img.freepik.com/free-photo/young-handsome-cook-chef-uniform-holding-plate-with-vegetables-pointing-them-with-carrot-looking-isolated-white-space_141793-45196.jpg?w=740&t=st=1683012851~exp=1683013451~hmac=7b776c930d5f69d3ce0ad945ebb6c90830f85347178cd5a93b01a5ad1053e70f",
     "experience": 35,
     "recipes": 75,
-    "likes": 20000
+    "likes": 20000,
+    "bio": "Ina Garten is an American chef, author, and television personality. She is known for his fiery personality and blunt criticism on shows like 'Hell's Kitchen' and 'MasterChef'.",
+    "recipes1": [
+      {
+        "name": "Spaghetti Bolognese",
+        "ingredients": [
+          "Spaghetti",
+          "Ground beef",
+          "Crushed tomatoes",
+          "Onion",
+          "Garlic",
+          "Olive oil",
+          "Parmesan cheese",
+          "Salt and pepper",
+          "Fresh parsley"
+        ],
+        "instructions": [
+          "Bring a large pot of salted water to a boil.",
+          "In a large pan, heat olive oil over medium-high heat.",
+          "Add onion and garlic and cook until soft.",
+          "Add ground beef and cook until browned.",
+          "Add crushed tomatoes and simmer for 20-30 minutes.",
+          "Cook spaghetti according to package instructions.",
+          "Drain spaghetti and toss with sauce.",
+          "Serve with grated Parmesan cheese and fresh parsley."
+        ],
+        "rating": 4.8,
+        "image": "https://example.com/spaghetti-bolognese.jpg"
+      },
+      {
+        "name": "Chicken Stir Fry",
+        "ingredients": [
+          "Chicken breast",
+          "Broccoli",
+          "Carrots",
+          "Bell pepper",
+          "Onion",
+          "Garlic",
+          "Soy sauce",
+          "Rice"
+        ],
+        "instructions": [
+          "Cook rice according to package instructions.",
+          "Heat oil in a wok or large skillet over high heat.",
+          "Add chicken and cook until browned.",
+          "Add garlic, onion, broccoli, carrots, and bell pepper and stir fry for 2-3 minutes.",
+          "Add soy sauce and stir fry for an additional 2-3 minutes.",
+          "Serve with rice."
+        ],
+        "rating": 4.5,
+        "image": "https://example.com/chicken-stir-fry.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Scallion Pancakes",
+        "rating": 4.3,
+        "image": "url",
+        "short_instruction": "Mix flour, salt, and boiling water. Knead the dough and let it rest. Roll the dough into a thin sheet and brush with oil. Sprinkle with scallions, roll up, and twist into a coil. Flatten the coil into a pancake and cook in a skillet over medium heat until golden brown on both sides.",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1/2 teaspoon salt",
+          "1 cup boiling water",
+          "2 tablespoons vegetable oil, plus more for brushing",
+          "3 scallions, chopped",
+          "Soy sauce, for serving"
+        ]
+      }
+    ]
   },
   {
     "id": 5,
@@ -37,7 +285,74 @@
     "image": "https://img.freepik.com/free-photo/man-cook-holds-pan-with-vegetables-flying-air_613910-10109.jpg?w=740&t=st=1683012895~exp=1683013495~hmac=327a3b7b13678205ef002a0809453de11a2ef6c420cf21394ed82da936e89c48",
     "experience": 20,
     "recipes": 150,
-    "likes": 45000
+    "likes": 45000,
+    "bio": "Anthony Bourdain is an American chef, author, and television personality. She is known for his fiery personality and blunt criticism on shows like 'Hell's Kitchen' and 'MasterChef'.",
+    "recipes1": [
+      {
+        "name": "Spaghetti Bolognese",
+        "ingredients": [
+          "Spaghetti",
+          "Ground beef",
+          "Crushed tomatoes",
+          "Onion",
+          "Garlic",
+          "Olive oil",
+          "Parmesan cheese",
+          "Salt and pepper",
+          "Fresh parsley"
+        ],
+        "instructions": [
+          "Bring a large pot of salted water to a boil.",
+          "In a large pan, heat olive oil over medium-high heat.",
+          "Add onion and garlic and cook until soft.",
+          "Add ground beef and cook until browned.",
+          "Add crushed tomatoes and simmer for 20-30 minutes.",
+          "Cook spaghetti according to package instructions.",
+          "Drain spaghetti and toss with sauce.",
+          "Serve with grated Parmesan cheese and fresh parsley."
+        ],
+        "rating": 4.8,
+        "image": "https://example.com/spaghetti-bolognese.jpg"
+      },
+      {
+        "name": "Chicken Stir Fry",
+        "ingredients": [
+          "Chicken breast",
+          "Broccoli",
+          "Carrots",
+          "Bell pepper",
+          "Onion",
+          "Garlic",
+          "Soy sauce",
+          "Rice"
+        ],
+        "instructions": [
+          "Cook rice according to package instructions.",
+          "Heat oil in a wok or large skillet over high heat.",
+          "Add chicken and cook until browned.",
+          "Add garlic, onion, broccoli, carrots, and bell pepper and stir fry for 2-3 minutes.",
+          "Add soy sauce and stir fry for an additional 2-3 minutes.",
+          "Serve with rice."
+        ],
+        "rating": 4.5,
+        "image": "https://example.com/chicken-stir-fry.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Scallion Pancakes",
+        "rating": 4.3,
+        "image": "url",
+        "short_instruction": "Mix flour, salt, and boiling water. Knead the dough and let it rest. Roll the dough into a thin sheet and brush with oil. Sprinkle with scallions, roll up, and twist into a coil. Flatten the coil into a pancake and cook in a skillet over medium heat until golden brown on both sides.",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1/2 teaspoon salt",
+          "1 cup boiling water",
+          "2 tablespoons vegetable oil, plus more for brushing",
+          "3 scallions, chopped",
+          "Soy sauce, for serving"
+        ]
+      }
+    ]
   },
   {
     "id": 6,
@@ -45,6 +360,76 @@
     "image": "https://img.freepik.com/free-photo/studio-portrait-cook-man-with-fresh-vegetables-table_613910-9893.jpg?w=740&t=st=1683012998~exp=1683013598~hmac=c331ff2efa704043a347d5c2aab461e55b56a9e3eb14fb480ac3298d35aefa14",
     "experience": 15,
     "recipes": 100,
-    "likes": 25000
+    "likes": 25000,
+    "bio": "Yotam Ottolenghi is an American chef, author, and television personality. She is known for his fiery personality and blunt criticism on shows like 'Hell's Kitchen' and 'MasterChef'.",
+    "recipes1": [
+      {
+        "name": "Pesto Pasta",
+        "rating": 4.5,
+        "image": "url",
+        "ingredients": [
+          "1 lb. pasta",
+          "2 cups fresh basil",
+          "1/2 cup grated Parmesan cheese",
+          "1/2 cup olive oil",
+          "1/4 cup pine nuts"
+        ],
+        "instructions": [
+          "Cook pasta according to package directions.",
+          "Meanwhile, blend basil, Parmesan cheese, olive oil, and pine nuts in a food processor until smooth.",
+          "Drain pasta and toss with pesto sauce.",
+          "Serve hot."
+        ]
+      },
+      {
+        "name": "Spicy Chicken Tacos",
+        "rating": 4.2,
+        "image": "url",
+        "ingredients": [
+          "1 lb. boneless chicken breast, cut into strips",
+          "1 tsp. chili powder",
+          "1 tsp. paprika",
+          "1/2 tsp. garlic powder",
+          "1/4 tsp. cayenne pepper",
+          "8 corn tortillas",
+          "1 cup shredded lettuce",
+          "1 cup diced tomatoes",
+          "1/2 cup shredded cheddar cheese"
+        ],
+        "instructions": [
+          "Preheat oven to 400°F.",
+          "In a bowl, combine chicken strips, chili powder, paprika, garlic powder, and cayenne pepper. Toss to coat evenly.",
+          "Spread chicken strips on a baking sheet and bake for 15-20 minutes, or until cooked through.",
+          "Warm tortillas in the oven or microwave.",
+          "Assemble tacos by filling each tortilla with chicken, lettuce, tomatoes, and cheese.",
+          "Serve hot."
+        ]
+      },
+      {
+        "name": "Quinoa Salad",
+        "rating": 4.8,
+        "image": "url",
+        "ingredients": [
+          "1 cup quinoa",
+          "2 cups water",
+          "1/2 cup chopped cucumber",
+          "1/2 cup diced tomatoes",
+          "1/2 cup diced bell pepper",
+          "1/4 cup chopped red onion",
+          "1/4 cup chopped fresh parsley",
+          "1/4 cup olive oil",
+          "2 tbsp. lemon juice",
+          "1 tsp. honey",
+          "Salt and pepper, to taste"
+        ],
+        "instructions": [
+          "Rinse quinoa under cold water and drain well.",
+          "In a medium saucepan, bring water to a boil. Add quinoa and stir. Reduce heat to low, cover, and simmer for 15-20 minutes, or until all water is absorbed.",
+          "In a large bowl, combine cooked quinoa, cucumber, tomatoes, bell pepper, red onion, and parsley.",
+          "In a small bowl, whisk together olive oil, lemon juice, honey, salt, and pepper. Pour dressing over quinoa mixture and toss to coat.",
+          "Serve chilled or at room temperature."
+        ]
+      }
+    ]
   }
 ]
