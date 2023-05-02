@@ -10,10 +10,9 @@
     "recipes1": [
       {
         "id": 1,
-        "chef_name": "Grace Lee",
         "name": "Kung Pao Chicken",
         "rating": 4.5,
-        "image": "url",
+        "image": "https://img.freepik.com/free-photo/homemade-kung-pao-chicken-with-peppers-vegetables-chinese-food-stir-fry_2829-7179.jpg?w=740&t=st=1683027933~exp=1683028533~hmac=862b9f7d35af13a5d96f6b8e179a298d60e9824b90fd40d9cbaa28804d951651",
         "short_instruction": "Heat oil in a wok or large skillet over high heat. Add chicken and cook until golden brown, then add garlic, ginger, and dried chili peppers. Add peanuts, scallions, and soy sauce. Serve hot with rice.",
         "ingredients": [
           "1 pound boneless, skinless chicken breasts, cut into bite-sized pieces",
@@ -29,10 +28,9 @@
       },
       {
         "id": 2,
-        "chef_name": "Eddie Huang",
         "name": "Mapo Tofu",
         "rating": 4.8,
-        "image": "url",
+        "image": "https://img.freepik.com/free-photo/veal-fillet-stir-fry-with-oranges-paprika-sweet-sour-sauce-light-table_2829-19993.jpg?w=740&t=st=1683028018~exp=1683028618~hmac=5c68dbbf841213b55ef69a53bcba260ddc537a161d7abb3cd7f877de341a1fdc",
         "short_instruction": "Cook ground pork in a wok or large skillet over medium heat. Add garlic, ginger, and doubanjiang. Stir in chicken broth, soy sauce, and sugar. Add tofu and stir gently. Serve hot with rice.",
         "ingredients": [
           "1/2 pound ground pork",
@@ -48,10 +46,9 @@
       },
       {
         "id": 3,
-        "chef_name": "Jenny Huang",
         "name": "Scallion Pancakes",
         "rating": 4.3,
-        "image": "url",
+        "image": "https://img.freepik.com/free-photo/arrangement-delicious-healthy-meal-table_23-2148992985.jpg?w=740&t=st=1683028081~exp=1683028681~hmac=46b56cd6a36df3e4976ddd00a1bd8a8ddb4f7c18f96468c33a191e0170afe4e0",
         "short_instruction": "Mix flour, salt, and boiling water. Knead the dough and let it rest. Roll the dough into a thin sheet and brush with oil. Sprinkle with scallions, roll up, and twist into a coil. Flatten the coil into a pancake and cook in a skillet over medium heat until golden brown on both sides.",
         "ingredients": [
           "2 cups all-purpose flour",
@@ -76,7 +73,7 @@
       {
         "name": "Pesto Pasta",
         "rating": 4.5,
-        "image": "url",
+        "image": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5832.jpg?w=740&t=st=1683028183~exp=1683028783~hmac=e647c8661406039578475be0199725fc89bc680368fd4a2b9787f724fa7ea5ae",
         "ingredients": [
           "1 lb. pasta",
           "2 cups fresh basil",
@@ -94,7 +91,7 @@
       {
         "name": "Spicy Chicken Tacos",
         "rating": 4.2,
-        "image": "url",
+        "image": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14227.jpg?w=740&t=st=1683028232~exp=1683028832~hmac=9f75befd06a4dc09e263bcbd1eea7f41876a724fffd478c0058ddaae9eed503e",
         "ingredients": [
           "1 lb. boneless chicken breast, cut into strips",
           "1 tsp. chili powder",
@@ -118,7 +115,7 @@
       {
         "name": "Quinoa Salad",
         "rating": 4.8,
-        "image": "url",
+        "image": "https://img.freepik.com/free-photo/salads-with-quinoa-arugula-radish-tomatoes-cucumber-bowl-wooden-table-healthy-food-diet-detox-vegetarian-concept_2829-6844.jpg?w=740&t=st=1683028278~exp=1683028878~hmac=c1b7223e8e7caf23c3bd4fa376921a5021c19f6e042cb22283b0ce674993336e",
         "ingredients": [
           "1 cup quinoa",
           "2 cups water",
@@ -155,7 +152,7 @@
         "id": 1,
         "name": "Kung Pao Chicken",
         "rating": 4.5,
-        "image": "url",
+        "image": "https://img.freepik.com/free-photo/homemade-kung-pao-chicken-with-peppers-vegetables-chinese-food-stir-fry_2829-7179.jpg?w=740&t=st=1683027933~exp=1683028533~hmac=862b9f7d35af13a5d96f6b8e179a298d60e9824b90fd40d9cbaa28804d951651",
         "short_instruction": "Heat oil in a wok or large skillet over high heat. Add chicken and cook until golden brown, then add garlic, ginger, and dried chili peppers. Add peanuts, scallions, and soy sauce. Serve hot with rice.",
         "ingredients": [
           "1 pound boneless, skinless chicken breasts, cut into bite-sized pieces",
@@ -173,7 +170,7 @@
         "id": 2,
         "name": "Mapo Tofu",
         "rating": 4.8,
-        "image": "url",
+        "image": "https://img.freepik.com/free-photo/veal-fillet-stir-fry-with-oranges-paprika-sweet-sour-sauce-light-table_2829-19993.jpg?w=740&t=st=1683028018~exp=1683028618~hmac=5c68dbbf841213b55ef69a53bcba260ddc537a161d7abb3cd7f877de341a1fdc",
         "short_instruction": "Cook ground pork in a wok or large skillet over medium heat. Add garlic, ginger, and doubanjiang. Stir in chicken broth, soy sauce, and sugar. Add tofu and stir gently. Serve hot with rice.",
         "ingredients": [
           "1/2 pound ground pork",
@@ -191,7 +188,7 @@
         "id": 3,
         "name": "Scallion Pancakes",
         "rating": 4.3,
-        "image": "url",
+        "image": "https://img.freepik.com/free-photo/arrangement-delicious-healthy-meal-table_23-2148992985.jpg?w=740&t=st=1683028081~exp=1683028681~hmac=46b56cd6a36df3e4976ddd00a1bd8a8ddb4f7c18f96468c33a191e0170afe4e0",
         "short_instruction": "Mix flour, salt, and boiling water. Knead the dough and let it rest. Roll the dough into a thin sheet and brush with oil. Sprinkle with scallions, roll up, and twist into a coil. Flatten the coil into a pancake and cook in a skillet over medium heat until golden brown on both sides.",
         "ingredients": [
           "2 cups all-purpose flour",
@@ -237,7 +234,7 @@
           "Serve with grated Parmesan cheese and fresh parsley."
         ],
         "rating": 4.8,
-        "image": "https://example.com/spaghetti-bolognese.jpg"
+        "image": "https://img.freepik.com/free-photo/spaghetti-with-minced-meat-tomato-cubes-cheese-mint_140725-6808.jpg?w=740&t=st=1683028362~exp=1683028962~hmac=457fca03eb3f53b1c80fd9dd239b7203da49a45a473e913e03d2a329c0e128f5"
       },
       {
         "name": "Chicken Stir Fry",
@@ -260,13 +257,13 @@
           "Serve with rice."
         ],
         "rating": 4.5,
-        "image": "https://example.com/chicken-stir-fry.jpg"
+        "image": "https://img.freepik.com/free-photo/chicken-stir-fry-vegetables_123827-21544.jpg?w=740&t=st=1683028453~exp=1683029053~hmac=e1af16bc34f0440dd9e0ed8b69aeb5773f3e6fd33a63ffc00d2c4d9b7c6bac46"
       },
       {
         "id": 3,
         "name": "Scallion Pancakes",
         "rating": 4.3,
-        "image": "url",
+        "image": "https://img.freepik.com/free-photo/arrangement-delicious-healthy-meal-table_23-2148992985.jpg?w=740&t=st=1683028081~exp=1683028681~hmac=46b56cd6a36df3e4976ddd00a1bd8a8ddb4f7c18f96468c33a191e0170afe4e0",
         "short_instruction": "Mix flour, salt, and boiling water. Knead the dough and let it rest. Roll the dough into a thin sheet and brush with oil. Sprinkle with scallions, roll up, and twist into a coil. Flatten the coil into a pancake and cook in a skillet over medium heat until golden brown on both sides.",
         "ingredients": [
           "2 cups all-purpose flour",
@@ -312,7 +309,7 @@
           "Serve with grated Parmesan cheese and fresh parsley."
         ],
         "rating": 4.8,
-        "image": "https://example.com/spaghetti-bolognese.jpg"
+        "image": "https://img.freepik.com/free-photo/spaghetti-with-minced-meat-tomato-cubes-cheese-mint_140725-6808.jpg?w=740&t=st=1683028362~exp=1683028962~hmac=457fca03eb3f53b1c80fd9dd239b7203da49a45a473e913e03d2a329c0e128f5"
       },
       {
         "name": "Chicken Stir Fry",
@@ -335,13 +332,13 @@
           "Serve with rice."
         ],
         "rating": 4.5,
-        "image": "https://example.com/chicken-stir-fry.jpg"
+        "image": "https://img.freepik.com/free-photo/chicken-stir-fry-vegetables_123827-21544.jpg?w=740&t=st=1683028453~exp=1683029053~hmac=e1af16bc34f0440dd9e0ed8b69aeb5773f3e6fd33a63ffc00d2c4d9b7c6bac46"
       },
       {
         "id": 3,
         "name": "Scallion Pancakes",
         "rating": 4.3,
-        "image": "url",
+        "image": "https://img.freepik.com/free-photo/arrangement-delicious-healthy-meal-table_23-2148992985.jpg?w=740&t=st=1683028081~exp=1683028681~hmac=46b56cd6a36df3e4976ddd00a1bd8a8ddb4f7c18f96468c33a191e0170afe4e0",
         "short_instruction": "Mix flour, salt, and boiling water. Knead the dough and let it rest. Roll the dough into a thin sheet and brush with oil. Sprinkle with scallions, roll up, and twist into a coil. Flatten the coil into a pancake and cook in a skillet over medium heat until golden brown on both sides.",
         "ingredients": [
           "2 cups all-purpose flour",
@@ -366,7 +363,7 @@
       {
         "name": "Pesto Pasta",
         "rating": 4.5,
-        "image": "url",
+        "image": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5832.jpg?w=740&t=st=1683028183~exp=1683028783~hmac=e647c8661406039578475be0199725fc89bc680368fd4a2b9787f724fa7ea5ae",
         "ingredients": [
           "1 lb. pasta",
           "2 cups fresh basil",
@@ -384,7 +381,7 @@
       {
         "name": "Spicy Chicken Tacos",
         "rating": 4.2,
-        "image": "url",
+        "image": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14227.jpg?w=740&t=st=1683028232~exp=1683028832~hmac=9f75befd06a4dc09e263bcbd1eea7f41876a724fffd478c0058ddaae9eed503e",
         "ingredients": [
           "1 lb. boneless chicken breast, cut into strips",
           "1 tsp. chili powder",
@@ -408,7 +405,7 @@
       {
         "name": "Quinoa Salad",
         "rating": 4.8,
-        "image": "url",
+        "image": "https://img.freepik.com/free-photo/salads-with-quinoa-arugula-radish-tomatoes-cucumber-bowl-wooden-table-healthy-food-diet-detox-vegetarian-concept_2829-6844.jpg?w=740&t=st=1683028278~exp=1683028878~hmac=c1b7223e8e7caf23c3bd4fa376921a5021c19f6e042cb22283b0ce674993336e",
         "ingredients": [
           "1 cup quinoa",
           "2 cups water",
