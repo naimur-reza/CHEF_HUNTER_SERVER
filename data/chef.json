@@ -6,14 +6,14 @@
     "experience": 30,
     "recipes": 100,
     "likes": 50000,
-    "bio": "Gordon Ramsay is a Chinese-British chef, restaurateur, and television personality from London, UK. He has earned a total of 16 Michelin stars and is known for his fiery personality and blunt criticism on shows like 'Hell's Kitchen' and 'MasterChef'.",
+    "bio": "Anthony Bourdain is an American chef, author, and television personality. She is known for his fiery personality and blunt criticism on shows like 'Hell's Kitchen' and 'MasterChef'.",
     "recipes1": [
       {
         "id": 1,
         "name": "Kung Pao Chicken",
         "rating": 4.5,
         "image": "https://img.freepik.com/free-photo/homemade-kung-pao-chicken-with-peppers-vegetables-chinese-food-stir-fry_2829-7179.jpg?w=740&t=st=1683027933~exp=1683028533~hmac=862b9f7d35af13a5d96f6b8e179a298d60e9824b90fd40d9cbaa28804d951651",
-        "short_instruction": "Heat oil in a wok or large skillet over high heat. Add chicken and cook until golden brown, then add garlic, ginger, and dried chili peppers. Add peanuts, scallions, and soy sauce. Serve hot with rice.",
+        "instructions": "Heat oil in a wok or large skillet over high heat. Add chicken and cook until golden brown, then add garlic, ginger, and dried chili peppers. Add peanuts, scallions, and soy sauce. Serve hot with rice.",
         "ingredients": [
           "1 pound boneless, skinless chicken breasts, cut into bite-sized pieces",
           "2 tablespoons vegetable oil",
@@ -31,7 +31,7 @@
         "name": "Mapo Tofu",
         "rating": 4.8,
         "image": "https://img.freepik.com/free-photo/veal-fillet-stir-fry-with-oranges-paprika-sweet-sour-sauce-light-table_2829-19993.jpg?w=740&t=st=1683028018~exp=1683028618~hmac=5c68dbbf841213b55ef69a53bcba260ddc537a161d7abb3cd7f877de341a1fdc",
-        "short_instruction": "Cook ground pork in a wok or large skillet over medium heat. Add garlic, ginger, and doubanjiang. Stir in chicken broth, soy sauce, and sugar. Add tofu and stir gently. Serve hot with rice.",
+        "instructions": "Cook ground pork in a wok or large skillet over medium heat. Add garlic, ginger, and doubanjiang. Stir in chicken broth, soy sauce, and sugar. Add tofu and stir gently. Serve hot with rice.",
         "ingredients": [
           "1/2 pound ground pork",
           "2 cloves garlic, minced",
@@ -49,7 +49,7 @@
         "name": "Scallion Pancakes",
         "rating": 4.3,
         "image": "https://img.freepik.com/free-photo/arrangement-delicious-healthy-meal-table_23-2148992985.jpg?w=740&t=st=1683028081~exp=1683028681~hmac=46b56cd6a36df3e4976ddd00a1bd8a8ddb4f7c18f96468c33a191e0170afe4e0",
-        "short_instruction": "Mix flour, salt, and boiling water. Knead the dough and let it rest. Roll the dough into a thin sheet and brush with oil. Sprinkle with scallions, roll up, and twist into a coil. Flatten the coil into a pancake and cook in a skillet over medium heat until golden brown on both sides.",
+        "instructions": "Mix flour, salt, and boiling water. Knead the dough and let it rest. Roll the dough into a thin sheet and brush with oil. Sprinkle with scallions, roll up, and twist into a coil. Flatten the coil into a pancake and cook in a skillet over medium heat until golden brown on both sides.",
         "ingredients": [
           "2 cups all-purpose flour",
           "1/2 teaspoon salt",
@@ -57,6 +57,24 @@
           "2 tablespoons vegetable oil, plus more for brushing",
           "3 scallions, chopped",
           "Soy sauce, for serving"
+        ]
+      },
+      {
+        "name": "Pesto Pasta",
+        "rating": 4.5,
+        "image": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5832.jpg?w=740&t=st=1683028183~exp=1683028783~hmac=e647c8661406039578475be0199725fc89bc680368fd4a2b9787f724fa7ea5ae",
+        "ingredients": [
+          "1 lb. pasta",
+          "2 cups fresh basil",
+          "1/2 cup grated Parmesan cheese",
+          "1/2 cup olive oil",
+          "1/4 cup pine nuts"
+        ],
+        "instructions": [
+          "Cook pasta according to package directions.",
+          "Meanwhile, blend basil, Parmesan cheese, olive oil, and pine nuts in a food processor until smooth.",
+          "Drain pasta and toss with pesto sauce.",
+          "Serve hot."
         ]
       }
     ]
@@ -153,7 +171,7 @@
         "name": "Kung Pao Chicken",
         "rating": 4.5,
         "image": "https://img.freepik.com/free-photo/homemade-kung-pao-chicken-with-peppers-vegetables-chinese-food-stir-fry_2829-7179.jpg?w=740&t=st=1683027933~exp=1683028533~hmac=862b9f7d35af13a5d96f6b8e179a298d60e9824b90fd40d9cbaa28804d951651",
-        "short_instruction": "Heat oil in a wok or large skillet over high heat. Add chicken and cook until golden brown, then add garlic, ginger, and dried chili peppers. Add peanuts, scallions, and soy sauce. Serve hot with rice.",
+        "instructions": "Heat oil in a wok or large skillet over high heat. Add chicken and cook until golden brown, then add garlic, ginger, and dried chili peppers. Add peanuts, scallions, and soy sauce. Serve hot with rice.",
         "ingredients": [
           "1 pound boneless, skinless chicken breasts, cut into bite-sized pieces",
           "2 tablespoons vegetable oil",
@@ -171,7 +189,7 @@
         "name": "Mapo Tofu",
         "rating": 4.8,
         "image": "https://img.freepik.com/free-photo/veal-fillet-stir-fry-with-oranges-paprika-sweet-sour-sauce-light-table_2829-19993.jpg?w=740&t=st=1683028018~exp=1683028618~hmac=5c68dbbf841213b55ef69a53bcba260ddc537a161d7abb3cd7f877de341a1fdc",
-        "short_instruction": "Cook ground pork in a wok or large skillet over medium heat. Add garlic, ginger, and doubanjiang. Stir in chicken broth, soy sauce, and sugar. Add tofu and stir gently. Serve hot with rice.",
+        "instructions": "Cook ground pork in a wok or large skillet over medium heat. Add garlic, ginger, and doubanjiang. Stir in chicken broth, soy sauce, and sugar. Add tofu and stir gently. Serve hot with rice.",
         "ingredients": [
           "1/2 pound ground pork",
           "2 cloves garlic, minced",
@@ -189,7 +207,7 @@
         "name": "Scallion Pancakes",
         "rating": 4.3,
         "image": "https://img.freepik.com/free-photo/arrangement-delicious-healthy-meal-table_23-2148992985.jpg?w=740&t=st=1683028081~exp=1683028681~hmac=46b56cd6a36df3e4976ddd00a1bd8a8ddb4f7c18f96468c33a191e0170afe4e0",
-        "short_instruction": "Mix flour, salt, and boiling water. Knead the dough and let it rest. Roll the dough into a thin sheet and brush with oil. Sprinkle with scallions, roll up, and twist into a coil. Flatten the coil into a pancake and cook in a skillet over medium heat until golden brown on both sides.",
+        "instructions": "Mix flour, salt, and boiling water. Knead the dough and let it rest. Roll the dough into a thin sheet and brush with oil. Sprinkle with scallions, roll up, and twist into a coil. Flatten the coil into a pancake and cook in a skillet over medium heat until golden brown on both sides.",
         "ingredients": [
           "2 cups all-purpose flour",
           "1/2 teaspoon salt",
@@ -198,6 +216,32 @@
           "3 scallions, chopped",
           "Soy sauce, for serving"
         ]
+      },
+      {
+        "name": "Spaghetti Bolognese",
+        "ingredients": [
+          "Spaghetti",
+          "Ground beef",
+          "Crushed tomatoes",
+          "Onion",
+          "Garlic",
+          "Olive oil",
+          "Parmesan cheese",
+          "Salt and pepper",
+          "Fresh parsley"
+        ],
+        "instructions": [
+          "Bring a large pot of salted water to a boil.",
+          "In a large pan, heat olive oil over medium-high heat.",
+          "Add onion and garlic and cook until soft.",
+          "Add ground beef and cook until browned.",
+          "Add crushed tomatoes and simmer for 20-30 minutes.",
+          "Cook spaghetti according to package instructions.",
+          "Drain spaghetti and toss with sauce.",
+          "Serve with grated Parmesan cheese and fresh parsley."
+        ],
+        "rating": 4.8,
+        "image": "https://img.freepik.com/free-photo/spaghetti-with-minced-meat-tomato-cubes-cheese-mint_140725-6808.jpg?w=740&t=st=1683028362~exp=1683028962~hmac=457fca03eb3f53b1c80fd9dd239b7203da49a45a473e913e03d2a329c0e128f5"
       }
     ]
   },
@@ -264,7 +308,7 @@
         "name": "Scallion Pancakes",
         "rating": 4.3,
         "image": "https://img.freepik.com/free-photo/arrangement-delicious-healthy-meal-table_23-2148992985.jpg?w=740&t=st=1683028081~exp=1683028681~hmac=46b56cd6a36df3e4976ddd00a1bd8a8ddb4f7c18f96468c33a191e0170afe4e0",
-        "short_instruction": "Mix flour, salt, and boiling water. Knead the dough and let it rest. Roll the dough into a thin sheet and brush with oil. Sprinkle with scallions, roll up, and twist into a coil. Flatten the coil into a pancake and cook in a skillet over medium heat until golden brown on both sides.",
+        "instructions": "Mix flour, salt, and boiling water. Knead the dough and let it rest. Roll the dough into a thin sheet and brush with oil. Sprinkle with scallions, roll up, and twist into a coil. Flatten the coil into a pancake and cook in a skillet over medium heat until golden brown on both sides.",
         "ingredients": [
           "2 cups all-purpose flour",
           "1/2 teaspoon salt",
@@ -339,7 +383,7 @@
         "name": "Scallion Pancakes",
         "rating": 4.3,
         "image": "https://img.freepik.com/free-photo/arrangement-delicious-healthy-meal-table_23-2148992985.jpg?w=740&t=st=1683028081~exp=1683028681~hmac=46b56cd6a36df3e4976ddd00a1bd8a8ddb4f7c18f96468c33a191e0170afe4e0",
-        "short_instruction": "Mix flour, salt, and boiling water. Knead the dough and let it rest. Roll the dough into a thin sheet and brush with oil. Sprinkle with scallions, roll up, and twist into a coil. Flatten the coil into a pancake and cook in a skillet over medium heat until golden brown on both sides.",
+        "instructions": "Mix flour, salt, and boiling water. Knead the dough and let it rest. Roll the dough into a thin sheet and brush with oil. Sprinkle with scallions, roll up, and twist into a coil. Flatten the coil into a pancake and cook in a skillet over medium heat until golden brown on both sides.",
         "ingredients": [
           "2 cups all-purpose flour",
           "1/2 teaspoon salt",
