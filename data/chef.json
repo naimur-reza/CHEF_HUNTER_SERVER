@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Gordon Ramsay",
+    "name": "Li Ming",
     "image": "https://img.freepik.com/free-photo/chef-holding-pan-with-fire-inside_144627-16644.jpg?w=740&t=st=1683012790~exp=1683013390~hmac=78d3f52c80509382665ab654de82b19c38bfb883758eef6c8e5a2be0173bb1d4",
     "experience": 30,
     "recipes": 100,
     "likes": 50000,
-    "bio": "Anthony Bourdain is an American chef, author, and television personality. She is known for his fiery personality and blunt criticism on shows like 'Hell's Kitchen' and 'MasterChef'.",
+    "bio": "Li Ming is an Chinese chef, author, and television personality. She is known for his fiery personality and blunt criticism on shows like 'Hell's Kitchen' and 'MasterChef'.",
     "recipes1": [
       {
         "id": 1,
@@ -81,12 +81,12 @@
   },
   {
     "id": 2,
-    "name": "Julia Child",
+    "name": "Chen Wei",
     "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683018945~exp=1683019545~hmac=ad5f738c09fe0fd702f3bc24b07cda7763a61ba11d52e669e14f749946c75e6d",
     "experience": 50,
     "recipes": 50,
     "likes": 10000,
-    "bio": "Julia Child is an Chinese chef, author, and television personality. She introduced French cuisine to the American public through her popular cookbook 'Mastering the Art of French Cooking' and her television show 'The French Chef'.",
+    "bio": "Chen Wei is an Chinese chef, author, and television personality. She introduced French cuisine to the Chinese public through her popular cookbook 'Mastering the Art of French Cooking' and her television show 'The French Chef'.",
     "recipes1": [
       {
         "name": "Pesto Pasta",
@@ -159,12 +159,12 @@
   },
   {
     "id": 3,
-    "name": "Jamie Oliver",
+    "name": "Zhang Feng",
     "image": "https://img.freepik.com/free-photo/portrait-handsome-male-chef-dressed-uniform_171337-5352.jpg?w=740&t=st=1683012820~exp=1683013420~hmac=80f5a96af3def3492ac61ef2f7aca9e9e34ec34e461af14366dd4be5af7212e9",
     "experience": 25,
     "recipes": 200,
     "likes": 35000,
-    "bio": "Jamie Oliver is an American chef, author, and television personality. She is known for his fiery personality and blunt criticism on shows like 'Hell's Kitchen' and 'MasterChef'.",
+    "bio": "Zhang Feng is an Chinese chef, author, and television personality. She is known for his fiery personality and blunt criticism on shows like 'Hell's Kitchen' and 'MasterChef'.",
     "recipes1": [
       {
         "id": 1,
@@ -247,12 +247,12 @@
   },
   {
     "id": 4,
-    "name": "Ina Garten",
+    "name": "Wang Hong",
     "image": "https://img.freepik.com/free-photo/young-handsome-cook-chef-uniform-holding-plate-with-vegetables-pointing-them-with-carrot-looking-isolated-white-space_141793-45196.jpg?w=740&t=st=1683012851~exp=1683013451~hmac=7b776c930d5f69d3ce0ad945ebb6c90830f85347178cd5a93b01a5ad1053e70f",
     "experience": 35,
     "recipes": 75,
     "likes": 20000,
-    "bio": "Ina Garten is an American chef, author, and television personality. She is known for his fiery personality and blunt criticism on shows like 'Hell's Kitchen' and 'MasterChef'.",
+    "bio": "Wang Hong is an Chinese chef, author, and television personality. She is known for his fiery personality and blunt criticism on shows like 'Hell's Kitchen' and 'MasterChef'.",
     "recipes1": [
       {
         "name": "Spaghetti Bolognese",
@@ -322,12 +322,12 @@
   },
   {
     "id": 5,
-    "name": "Anthony Bourdain",
+    "name": "Liu Mei",
     "image": "https://img.freepik.com/free-photo/man-cook-holds-pan-with-vegetables-flying-air_613910-10109.jpg?w=740&t=st=1683012895~exp=1683013495~hmac=327a3b7b13678205ef002a0809453de11a2ef6c420cf21394ed82da936e89c48",
     "experience": 20,
     "recipes": 150,
     "likes": 45000,
-    "bio": "Anthony Bourdain is an American chef, author, and television personality. She is known for his fiery personality and blunt criticism on shows like 'Hell's Kitchen' and 'MasterChef'.",
+    "bio": "Liu Mei is an Chinese chef, author, and television personality. She is known for his fiery personality and blunt criticism on shows like 'Hell's Kitchen' and 'MasterChef'.",
     "recipes1": [
       {
         "name": "Spaghetti Bolognese",
@@ -402,7 +402,7 @@
     "experience": 15,
     "recipes": 100,
     "likes": 25000,
-    "bio": "Yotam Ottolenghi is an American chef, author, and television personality. She is known for his fiery personality and blunt criticism on shows like 'Hell's Kitchen' and 'MasterChef'.",
+    "bio": "Yotam Ottolenghi is an Chinese chef, author, and television personality. She is known for his fiery personality and blunt criticism on shows like 'Hell's Kitchen' and 'MasterChef'.",
     "recipes1": [
       {
         "name": "Pesto Pasta",
